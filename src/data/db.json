@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "name": "Electricity Billss",
+      "nominal": 500000,
+      "category": "Utility",
+      "date": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "9dff",
+      "name": "Water Bill",
+      "nominal": 150000,
+      "category": "Utility",
+      "date": "2024-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "86af",
+      "name": "Water Bill",
+      "nominal": 150000,
+      "category": "Utility",
+      "date": "2024-03-25T15:50:25.263Z"
+    }
+  ]
+}
